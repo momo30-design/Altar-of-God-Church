@@ -1,0 +1,6 @@
+{
+  "name": "Altar of God Ministries",
+  "description": "Official platform for Altar of God Ministries featuring worship, sermons, prayer requests, events, and giving through Airtel Money and other convenient channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
