@@ -140,7 +140,11 @@ export const ReceiptModal: React.FC<ReceiptModalProps> = ({ donation, onClose })
                     MTN MoMo (+260964293130)
                   </span>
                 )}
-                {donation.paymentMethod === 'bank' && 'Direct Bank Wire'}
+                {donation.paymentMethod === 'bank' && (
+                  <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-blue-100 text-blue-800 text-xs font-bold">
+                    NATSAVE Bank Transfer (2070668192902)
+                  </span>
+                )}
                 {donation.paymentMethod === 'card' && 'Credit/Debit Card'}
                 {donation.paymentMethod === 'zamtel' && 'Zamtel Kwacha'}
                 {donation.airtelTransactionId && (

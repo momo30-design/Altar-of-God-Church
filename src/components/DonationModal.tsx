@@ -425,7 +425,7 @@ export const DonationModal: React.FC<DonationModalProps> = ({
                   >
                     <Building className="w-6 h-6 text-blue-400 my-1" />
                     <span className="font-semibold text-xs text-blue-300">Bank Transfer</span>
-                    <span className="text-[10px] text-slate-400">Standard Chartered</span>
+                    <span className="text-[10px] text-slate-400 font-mono">NATSAVE: 2070668192902</span>
                   </button>
 
                   {/* Card Payment */}

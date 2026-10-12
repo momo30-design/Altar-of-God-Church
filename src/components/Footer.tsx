@@ -101,8 +101,8 @@ export const Footer: React.FC<FooterProps> = ({ onOpenDonate, onNavigate }) => {
             </div>
 
             <div className="p-2.5 bg-slate-900 rounded-lg border border-slate-800">
-              <span className="font-bold text-blue-400 block">Standard Chartered Bank</span>
-              <span className="font-mono text-slate-300 text-[11px] block mt-0.5">A/C: 0100123984500 (ZMW)</span>
+              <span className="font-bold text-blue-400 block">NATSAVE (National Savings Bank)</span>
+              <span className="font-mono text-slate-300 text-[11px] block mt-0.5">A/C: 2070668192902 (ZMW)</span>
             </div>
           </div>
         </div>

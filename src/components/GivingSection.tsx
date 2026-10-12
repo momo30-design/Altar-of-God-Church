@@ -141,7 +141,7 @@ export const GivingSection: React.FC<GivingSectionProps> = ({ onOpenDonate }) =>
             <div>
               <h4 className="text-sm font-bold text-white">Financial Integrity & Covenant Accountability</h4>
               <p className="text-xs text-slate-400 mt-0.5">
-                All donations via Airtel Money ({AIRTEL_MONEY_CONFIG.displayPhone}), MTN MoMo (+260964293130), and bank channels are overseen by the Board of Trustees and independently audited annually under Zambian religious charity regulations.
+                All donations via Airtel Money ({AIRTEL_MONEY_CONFIG.displayPhone}), MTN MoMo (+260964293130), and bank channels (NATSAVE: 2070668192902) are overseen by the Board of Trustees and independently audited annually under Zambian religious charity regulations.
               </p>
             </div>
           </div>

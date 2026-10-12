@@ -52,11 +52,11 @@ export const OTHER_PAYMENT_CONFIG = {
   },
   bankAccounts: [
     {
-      bankName: 'Standard Chartered Bank Zambia',
+      bankName: 'NATSAVE (National Savings & Credit Bank)',
       accountName: 'ALTAR OF GOD MINISTRIES INC.',
-      accountNumber: '0100123984500',
-      branch: 'Main Lusaka Branch (010)',
-      swiftCode: 'SCBLZMLX',
+      accountNumber: '2070668192902',
+      branch: 'Lusaka Main Branch',
+      swiftCode: 'NATZMLX',
       currency: 'ZMW'
     },
     {
